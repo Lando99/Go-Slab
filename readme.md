@@ -12,7 +12,7 @@ This repository provides practical examples and code snippets to help you unders
 - **[main.go]**: This main contains code examples that illustrate the practical implementation of Slab Allocation in Golang. You'll find detailed explanations and comments within the code.
 
 - **[ringBufferSlab](ringBufferSlab/)**: Here, you can access to ring buffer of byte slice using Slab.
-- **[ringBufferSlabInterface](ringBufferSlab/)**: Here, you can access to ring buffer of interface using Slab allocator .
+- **[ringBufferSlabInterface](ringBufferSlabInterface/)**: Here, you can access to ring buffer of interface using Slab allocator .
 
 ## Getting Started
 
